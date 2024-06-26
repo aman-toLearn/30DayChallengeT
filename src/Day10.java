@@ -31,7 +31,7 @@ public class Day10 {
 
             if(i%2 != 0){
                 if(arr[i]%2 == 0){
-                    System.out.print(arr[i]);
+                    System.out.print(arr[i] + " ");
                 }
             }
         }
